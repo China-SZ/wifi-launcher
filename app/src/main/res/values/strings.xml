@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">随身 WiFi</string>
+    <string name="traffic_notification_title">流量监控运行中</string>
+    <string name="traffic_notification_text">点击返回控制台</string>
+</resources>
